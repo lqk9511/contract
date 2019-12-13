@@ -1,0 +1,13 @@
+{
+  "extends": ["@jeff9511/eslint-config-jeff"],
+  "overrides": [
+    {
+      "files": ["*.vue"],
+      "parserOptions": {
+        "ecmaFeatures": {
+          "jsx": true
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{
+  "extends": ["@jeff9511/stylelint-config-jeff"]
+}
